@@ -1,6 +1,6 @@
-# weeklysubmission5_praktikum_mcs
+# MovieQ
 
-A new Flutter project.
+Movie app created with flutter.
 
 ## Getting Started
 
